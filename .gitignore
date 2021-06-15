@@ -1,7 +1,7 @@
 # My files
 .DS_Store
 prep_sscp_data.ipynb
-
+.gitattributes
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
