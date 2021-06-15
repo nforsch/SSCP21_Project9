@@ -22,7 +22,8 @@ pip install -r requirements.txt
 
 or alternatively using conda
 ```
-conda install --file requirements.txt
+conda install pip
+pip install -r requirements.txt
 ```
 
 ## Contributors
