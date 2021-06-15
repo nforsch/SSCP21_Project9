@@ -1,0 +1,7 @@
+numpy
+matplotlib
+h5py
+sklearn
+skmultilearn
+tqdm
+tensorflow
